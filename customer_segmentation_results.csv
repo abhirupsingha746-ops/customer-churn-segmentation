@@ -1,0 +1,16 @@
+CustomerID,CustomerSegment,TenureMonths,SubscriptionType,MonthlyCharges,SupportTickets,ContractType,Churn,ChurnRiskScore,RiskCategory
+CUST-1001,Established Customers,12,Basic,49.99,3,Month-to-Month,Yes,30,Medium Risk
+CUST-1002,Established Customers,24,Pro,79.99,1,One Year,No,0,Low Risk
+CUST-1003,New Customers,6,Basic,49.99,5,Month-to-Month,Yes,100,High Risk
+CUST-1004,Long-Term Customers,36,Enterprise,149.99,0,Two Year,No,0,Low Risk
+CUST-1005,New Customers,8,Pro,79.99,4,Month-to-Month,Yes,100,High Risk
+CUST-1006,Established Customers,18,Basic,49.99,2,One Year,No,0,Low Risk
+CUST-1007,New Customers,3,Basic,49.99,6,Month-to-Month,Yes,100,High Risk
+CUST-1008,Long-Term Customers,48,Enterprise,149.99,1,Two Year,No,0,Low Risk
+CUST-1009,Established Customers,15,Pro,79.99,2,One Year,No,0,Low Risk
+CUST-1010,New Customers,4,Basic,49.99,4,Month-to-Month,Yes,100,High Risk
+CUST-1011,Long-Term Customers,30,Enterprise,149.99,0,Two Year,No,0,Low Risk
+CUST-1012,Established Customers,14,Pro,79.99,3,Month-to-Month,Yes,30,Medium Risk
+CUST-1013,Established Customers,22,Basic,49.99,1,One Year,No,0,Low Risk
+CUST-1014,New Customers,2,Basic,49.99,5,Month-to-Month,Yes,100,High Risk
+CUST-1015,Long-Term Customers,40,Enterprise,149.99,1,Two Year,No,0,Low Risk
